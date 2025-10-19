@@ -34,3 +34,12 @@ Pandas · Matplotlib · Seaborn · NumPy · Jupyter Notebook
 #### 💡 Key Insight:
 
 Crime rates show clear temporal and regional trends, but only a slight correlation with unemployment, suggesting deeper social and policy-driven factors.
+
+#### Collaborators
+
+
+*   Allison Kramer
+*   Adam Schuler
+*   Alex Jiang
+*   Drishti Chulani (Project Manager)
+*   Quency Ye
